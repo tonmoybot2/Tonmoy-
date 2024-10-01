@@ -6,14 +6,14 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "Sagor 𝐂𝐡𝐚𝐭",
-  "PREFIX": "?",
+  "BOTNAME": "bot",
+  "PREFIX": "/",
   "OPERATOR": [
-    "100048281103451",
+    "100094470738850",
     ""
   ],
   "ADMINBOT": [
-    "100048281103451",
+    "100094470738850",
     "",
     "",
     ""
